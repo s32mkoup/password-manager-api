@@ -30,7 +30,7 @@ Passwords are encrypted using Base64 encoding (ASCII <=> Base64).
 ## Setup
 Clone the repository:
 ```bash
-git clone https://github.com/yourusername/password-manager-api.git
+git clone https://github.com/s32mkoup/password-manager-api.git
 cd password-manager-api
 ```
 
@@ -62,4 +62,3 @@ This project uses an in-memory database for storing passwords. The in-memory dat
 - `PUT /api/password/{id}` - Update a password by ID
 - `DELETE /api/password/{id}` - Delete a password by ID
 
-> Note: Replace `yourusername` with your actual GitHub username.
