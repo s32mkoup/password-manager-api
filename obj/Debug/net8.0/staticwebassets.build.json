@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "7LswiAhpLGMGIDUgIEP7CWuTzWdhUzMPPWtScXTbymY=",
+  "Source": "password-manager-2",
+  "BasePath": "_content/password-manager-2",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
